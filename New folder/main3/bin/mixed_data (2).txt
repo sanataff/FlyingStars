@@ -1,0 +1,8 @@
+1
+23.45
+Hello
+True
+789
+World
+0.001
+False
